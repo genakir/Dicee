@@ -1,2 +1,2 @@
-# Dicee demo app
+# Dicee UIKit demo app
 ![](dicee.gif)
