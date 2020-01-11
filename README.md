@@ -1,2 +1,2 @@
 # Dicee
-![Dicee](dicee.gif)
+![Dicee test text](dicee.gif)
