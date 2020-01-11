@@ -1,2 +1,2 @@
-# Dicee text test
-![Dicee test text](dicee.gif)
+# Dicee demo app
+![](dicee.gif)
